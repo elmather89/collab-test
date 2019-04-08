@@ -1,9 +1,9 @@
 $(document).ready(function() {
-    alert("Hello");
-    alert("hellooooo");
-    alert("heoo");
-    alert("hi");
-    alert("Hello");
-    alert("Hello");
-    alert("Hello");
+    console.log("Hello");
+    console.log("hellooooo");
+    console.log("heoo");
+    console.log("hi");
+    console.log("Hello");
+    console.log("Hello");
+    console.log("Hello");
 });
